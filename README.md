@@ -58,7 +58,7 @@ Instalacion Rol Web Server IIS/HTTP+FTP
 
 <img width="1600" height="490" alt="image" src="https://github.com/user-attachments/assets/55835407-b4c7-4513-8a6d-6d592dbe015b" />
 
-Pagina Web (Se volvio a usar curl para descargar la imagen y se dejo en la misma carpeta donde esta el html)
+Pagina Web (Se volvio a usar curl al igual que en linux para descargar la imagen y se dejo en la misma carpeta donde esta el html)
 
 <img width="1045" height="658" alt="image" src="https://github.com/user-attachments/assets/8913ab3a-9679-4eb3-b106-ade5ef53b229" />
 
