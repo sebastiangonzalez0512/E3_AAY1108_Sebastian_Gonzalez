@@ -24,6 +24,8 @@ Se aplicaron las dos reglas que permiten el acceso de SSH y HTTP.
 
 Conexion por PUTTY usando la llave y pagina web con nombre y logo DUOC.
 
+Se uso el comando "sudo curl -L https://cfw.cl/wp-content/uploads/2025/11/duoc-logo.png -o /var/www/html/logo-duoc.png" para descargar la imagen a la maquina y luego se agrego en el html.
+
 
 <img width="1211" height="572" alt="image" src="https://github.com/user-attachments/assets/5a147ec6-8375-471e-909f-7ee1ddfbd55b" />
 
