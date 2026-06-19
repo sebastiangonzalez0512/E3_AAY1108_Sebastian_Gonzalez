@@ -22,7 +22,7 @@ Se aplicaron las dos reglas que permiten el acceso de SSH y HTTP.
 <img width="1328" height="648" alt="image" src="https://github.com/user-attachments/assets/2ba54dfc-e72d-43a1-bac7-4b6624f13ae0" />
 
 
-Conexion por PUTTY Y PAGINA WEB
+Conexion por PUTTY usando la llave y pagina web con nombre y logo DUOC.
 
 
 <img width="1211" height="572" alt="image" src="https://github.com/user-attachments/assets/5a147ec6-8375-471e-909f-7ee1ddfbd55b" />
