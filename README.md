@@ -40,7 +40,7 @@ LLAVE DE CONEXION
 
 <img width="360" height="356" alt="image" src="https://github.com/user-attachments/assets/f88b7566-274a-475f-a71e-136f011e54c5" />
 
-Instancia Creada: Se uso Windows Server 2019 Datacenter porque no estÁ la version Standard. estas comparten casi las mismas caracteristicas asi que no deberia ser un problema.
+Instancia Creada: Se uso Windows Server 2019 Datacenter porque no está la version Standard. estas comparten casi las mismas caracteristicas asi que no deberia ser un problema.
 
 <img width="1358" height="733" alt="image" src="https://github.com/user-attachments/assets/39c2f1a1-b0b1-46e6-a68b-d208dfbf5f61" />
 
